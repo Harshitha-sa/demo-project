@@ -11,7 +11,7 @@ import android.widget.Switch;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 
 public class MainActivity extends AppCompatActivity {
-
+  //Demo Android Studio Project to Gain Hacktoberstuff lmao
     private BottomNavigationView bottomNavigationView;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
